@@ -9,3 +9,9 @@ I have officially accepted my offer to begin my career path into insurance claim
 I am excited to start this journey and continue to pivot!
 
 ![Claims Adjuster Trainee](https://progressive.widen.net/content/ljw9chepbp/jpeg/TAG_NewJobAccptance_square.jpg?color=cccccc&u=hjnphs&use=q1fas&w=640&keep=c&crop=yes&quality=80)
+
+## Project Notes
+
+Countdown clock will end on 06/06/2022 at 10:08am
+
+![landing page](images/pseudoimage.png)
