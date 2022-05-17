@@ -12,6 +12,6 @@ I am excited to start this journey and continue to pivot!
 
 ## Project Notes
 
-Countdown clock will end on 06/06/2022 at 10:08am
+Countdown clock will end on 06/06/2022 at 08:08am
 
 ![landing page](images/pseudoimage.png)
