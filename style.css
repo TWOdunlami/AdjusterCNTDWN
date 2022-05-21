@@ -5,7 +5,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  height: 1vh;
+  height: 78vh;
   padding: 0;
   margin: 0;
   background-color: black;
@@ -15,13 +15,32 @@ p {
   text-align: center;
   font-size: 30px;
 }
+.welcome {
+    text-align: center;
+    color: white;
+    font-family: "Garamond", serif;
+    font-weight: 300;
+    font-size: 32px;
+}
 h4 {
   text-align: center;
   color: white;
   font-family: "Garamond", serif;
   font-weight: 300;
   font-size: 22px;
-  margin-bottom: 13em;
+  margin-bottom: 8em;
+}
+.rsvpForm {
+    text-align: center;
+    margin: auto;
+    color: navy;
+    font-family: "Garamond", serif;
+    font-weight: 400;
+    text-decoration: none;
+    background-color: linen;
+    max-width: 20%;
+    cursor: pointer;
+    border-radius: 20px;
 }
 footer,
 .mylink {
@@ -29,7 +48,7 @@ footer,
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #5b3e90;
+  background-color: black;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
