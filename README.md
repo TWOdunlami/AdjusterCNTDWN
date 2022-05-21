@@ -14,7 +14,7 @@ I am excited to start this journey and continue to pivot!
 
 Countdown clock will end on 06/06/2022 at 08:08am
 
-![landing page](images/pseudoimage.png)
+![landing page](images/landingpage.png)
 ## Project development
 
 Project Prototype design was created using <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
