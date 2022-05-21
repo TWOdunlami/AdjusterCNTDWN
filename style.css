@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,300&display=swap');
+footer,
+.mylink {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #5b3e90;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+:visited {
+  color: white;
+}
