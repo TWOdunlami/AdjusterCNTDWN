@@ -1,0 +1,12 @@
+// Adjuster Trainee start date
+var countDownDate = new Date("June 6, 2022 08:08:88").getTime();
+
+var ramos = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 *60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 *60)) / 1000);
+}
+    )
