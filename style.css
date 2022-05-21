@@ -56,3 +56,17 @@ footer,
 :visited {
   color: white;
 }
+@media only screen and (min-width: 800px) {
+    .rsvpForm {
+      text-align: center;
+      margin: auto;
+      color: Blue;
+      font-family: "Garamond", serif;
+      font-weight: 400;
+      text-decoration: none;
+      background-color: white;
+      max-width: 18%;
+      cursor: pointer;
+      border-radius: 20px;
+    }
+  }  
