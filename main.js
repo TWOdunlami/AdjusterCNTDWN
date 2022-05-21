@@ -14,7 +14,8 @@ var ramos = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(ramos);
+        document.getElementById("tania").innerHTML = "My first day officially employed at Progressive! Thak you for the 💌 kind & motivational messages.";
     }
 
-}
-    )
+},
+    1000)
