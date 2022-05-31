@@ -14,7 +14,7 @@ var ramos = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(ramos);
-        document.getElementById("tania").innerHTML = "Today is my first day working for Progressive Insurance! Thak you for the 💌 kind & motivational messages.";
+        document.getElementById("tania").innerHTML = "Today is my first day working for Progressive Insurance, as a Claims Adjuster Trainee! Thank you for the 💌 kind & motivational messages.";
     }
 
 },
