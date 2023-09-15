@@ -8,7 +8,7 @@ I have officially accepted my offer to continue my career path in insurance clai
 
 I am excited to start this journey and continue to pivot!
 
-![Claims Adjuster Trainee]([https://progressive.widen.net/content/ljw9chepbp/jpeg/TAG_NewJobAccptance_square.jpg?color=cccccc&u=hjnphs&use=q1fas&w=640&keep=c&crop=yes&quality=80](https://images.unsplash.com/photo-1553002401-c0945c2ff0b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1635&q=80))
+![Claims Adjuster Trainee](https://progressive.widen.net/content/ljw9chepbp/jpeg/TAG_NewJobAccptance_square.jpg?color=cccccc&u=hjnphs&use=q1fas&w=640&keep=c&crop=yes&quality=80](https://images.unsplash.com/photo-1553002401-c0945c2ff0b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1635&q=80)
 
 ## Project Notes
 
