@@ -1,5 +1,5 @@
 // Adjuster Trainee start date
-var countDownDate = new Date("June 6, 2022 08:30:00").getTime();
+var countDownDate = new Date("September 25, 2022 08:30:00").getTime();
 
 var ramos = setInterval(function() {
     var now = new Date().getTime();
@@ -14,7 +14,7 @@ var ramos = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(ramos);
-        document.getElementById("tania").innerHTML = "Today is my first day working for Progressive Insurance, as a Claims Adjuster Trainee! Thank you for the 💌 kind & motivational messages.";
+        document.getElementById("tania").innerHTML = "Today is my first day working for ACE/AAA Northeast Insurance, as a Claims Adjuster II! Thank you for the kind & motivational messages.💌";
     }
 
 },
