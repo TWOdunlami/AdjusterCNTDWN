@@ -14,7 +14,7 @@ var ramos = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(ramos);
-        document.getElementById("tania").innerHTML = "Today is my first day working for ACE/AAA Northeast Insurance, as a Claims Adjuster II! Thank you for the kind & motivational messages.💌";
+        document.getElementById("tania").innerHTML = "I am a Claims Adjuster II at ACE/AAA Northeast Insurance! Thank you for the kind & motivational messages.💌";
     }
 
 },
