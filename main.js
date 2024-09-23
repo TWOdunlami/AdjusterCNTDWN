@@ -1,5 +1,5 @@
-// Adjuster Trainee start date
-var countDownDate = new Date("September 25, 2023 08:30:00").getTime();
+// New Role start date
+var countDownDate = new Date("October 21, 2023 08:30:00").getTime();
 
 var ramos = setInterval(function() {
     var now = new Date().getTime();
@@ -14,7 +14,7 @@ var ramos = setInterval(function() {
 
     if (distance < 0) {
         clearInterval(ramos);
-        document.getElementById("tania").innerHTML = "I am a Claims Adjuster II at ACE/AAA Northeast Insurance! Thank you for the kind & motivational messages.💌";
+        document.getElementById("tania").innerHTML = "I am a Customer Advocate at MetLife Insurance! Thank you for the kind & motivational messages.💌";
     }
 
 },
